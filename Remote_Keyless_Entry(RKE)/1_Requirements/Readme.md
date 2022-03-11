@@ -27,7 +27,8 @@ Better Data Insight
 ## Weakness
 Key battery died
 Hackers may be able to manipulate technology and steal your automobile.
-Opportunities
+
+## Opportunities
 The system can be integrated with a security system, garage door opener, or remotely controlled lighting equipment for offices or homes.
 
 ## Threats
