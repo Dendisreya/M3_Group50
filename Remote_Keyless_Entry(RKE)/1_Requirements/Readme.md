@@ -55,8 +55,6 @@ Jamming
 * Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations. 
 
 
-
-
 # High Level Requirements
 
 | *ID*   | *Description*                                                                    | *Category* |*Status* |
