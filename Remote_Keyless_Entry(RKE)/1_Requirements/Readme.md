@@ -1,6 +1,6 @@
 # Requirements
 # Introduction
-* Remote keyless entry (RKE) is a remote-control electronic access system. RKEs, which are generally used to remotely lock or unlock doors, require the end user to take a specific action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock. A button on a physical fob or a mobile app is often pressed.
+* Remote keyless entry (RKE) is a remote-control electronic access system. RKEs,which are generally used to remotely lock or unlock doors,require the end user to take a specific action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock. A button on a physical fob or a mobile app is often pressed.
 In contrast to remote keyless entry, which is often employed to secure vehicles from theft, passive keyless entry (PKE) does not involve any activity on the end user's part. 
 * Since the mid-1990s, modern systems have used encryption and rotating entry codes to prevent auto thieves from intercepting and faking the signal.Each time the lock is accessed, a controller chip in the receiver alters the exact frequency necessary for RKE, a security feature known as rolling code or hopping code.
 
@@ -42,8 +42,8 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 
 # 4W's and 1'H
 ## Who
-* Auto mobile industry
-* Car or other vechiles
+* Auto mobile industries
+* Cars  or other vechiles
 * In some home automation and security systems.
 
 ## What
@@ -51,6 +51,7 @@ In contrast to remote keyless entry, which is often employed to secure vehicles 
 
 ## When
 * To work, keyless remotes must be within a specified range, usually 5–20 metres, of the automobile. When you press a button, it transmits a coded signal to a receiver unit in the automobile, which locks or unlocks the door.
+* In contrast to remote keyless entry, which is often employed to secure vehicles from theft, passive keyless entry (PKE) does not involve any activity on the end user's part. 
 
 ## Where
 * RKE systems for automobiles can also operate the vehicle's ignition system, security alarm, horn, lights, and trunk, in addition to locking and unlocking the doors. RKEs can also be used to regulate access to certain portions of a structure, such as garages. While RKE is not commonly used in buildings other than enterprises, it is used in some home automation and security systems.
