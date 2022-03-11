@@ -1,19 +1,21 @@
 # Requirements
 # Introduction
 * Remote keyless entry (RKE) is a remote-control electronic access system. RKEs, which are generally used to remotely lock or unlock doors, require the end user to take a specific action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock. A button on a physical fob or a mobile app is often pressed.
-In contrast to remote keyless entry, which is often employed to secure vehicles from theft, passive keyless entry (PKE) does not involve any activity on the end user's part. Since the mid-1990s, modern systems have used encryption and rotating entry codes to prevent auto thieves from intercepting and faking the signal.Each time the lock is accessed, a controller chip in the receiver alters the exact frequency necessary for RKE, a security feature known as rolling code or hopping code.
+In contrast to remote keyless entry, which is often employed to secure vehicles from theft, passive keyless entry (PKE) does not involve any activity on the end user's part. 
+* Since the mid-1990s, modern systems have used encryption and rotating entry codes to prevent auto thieves from intercepting and faking the signal.Each time the lock is accessed, a controller chip in the receiver alters the exact frequency necessary for RKE, a security feature known as rolling code or hopping code.
 
 # Research
 * The Ford Thunderbird, Mercury Cougar, Lincoln Continental Mark VI, and Lincoln Town Car were among the first vehicles to include the Keyless Entry System, which was initially introduced in 1980. (later renamed SecuriCode). It was a keypad above the door handle on the driver's side outside door. It had a five-button keypad that, when the code was input, unlocked the driver's door, with subsequent code enters unlocking all doors and the trunk.
 * Beginning in 1984, Nissan offered the same technology on the Nissan Maxima and Nissan Fairlady, essentially following Ford's lead but adding the ability to roll down the windows and open the optional moonroof from outside the vehicle using the door handle installed keypad on both the driver's and front passenger's doors.
 
 # Defining Our System
-* A remote keyless system (RKS) is a lock that uses an electronic remote control as a key that can be activated manually or automatically by proximity.It is commonly used in the automobile industry to lock and unlock doors, trunks, and start engines.
-It consists of a driver-held key fob and a series of radio transceiver devices installed inside the vehicle.
+* A remote keyless system (RKS) is a lock that uses an electronic remote control as a key that can be activated manually or automatically by proximity.
+* A remote keyless entry system (RKE) that unlocks the doors and a remote keyless ignition system (RKI) that starts the engine are both part of a remote keyless system.
+* It is commonly used in the automobile industry to lock and unlock doors, trunks, and start engines.
+* It consists of a driver-held key fob and a series of radio transceiver devices installed inside the vehicle.
 * To realise various automotive functions, operation commands are expressed by strings of wireless signals transferred between the key fob and the radio transceiver.
 * An RKS, which is widely used in automobiles, accomplishes the tasks of a traditional car key without requiring physical touch. 
-Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations. 
-* A remote keyless entry system (RKE) that unlocks the doors and a remote keyless ignition system (RKI) that starts the engine are both part of a remote keyless system.
+* Pressing a button on the remote while within a few yards of the automobile can lock or unlock the doors, as well as conduct other operations. 
 
 # SWOT Analysis
 
